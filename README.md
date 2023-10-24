@@ -1,3 +1,20 @@
+# Project Summary
+CRA | Functional Components | Cloned backend repo | Movie list
+## Tech stack
+- JavaScript
+- ReactJS
+- Redux
+- React router
+- TypeScript
+- Ant Design
+- Moment
+- Jotai
+## Tools
+- VS Code
+- React Dev Tools
+- Redux Dev Tools
+- Git
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
