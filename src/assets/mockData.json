@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "title": "Shang-Chi and the Legend of the Ten Rings",
+    "genres": ["Fantasy", "Adventure", "Action"],
+    "date": "2021",
+    "coverURL": "https://m.media-amazon.com/images/M/MV5BNTliYjlkNDQtMjFlNS00NjgzLWFmMWEtYmM2Mzc2Zjg3ZjEyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+    "rating": "7.4",
+    "type": "Movie"
+  },
+  {
+    "id": 2,
+    "title": "Hackers",
+    "genres": ["Drama", "Crime", "Romance"],
+    "date": "1995",
+    "coverURL": "https://m.media-amazon.com/images/M/MV5BNmExMTkyYjItZTg0YS00NWYzLTkwMjItZWJiOWQ2M2ZkYjE4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg",
+    "rating": "6.2",
+    "type": "Movie"
+  },
+  {
+    "id": 3,
+    "title": "Doctor Strange",
+    "genres": ["Fantasy", "Adventure", "Action"],
+    "date": "2016",
+    "coverURL": "https://m.media-amazon.com/images/M/MV5BNjgwNzAzNjk1Nl5BMl5BanBnXkFtZTgwMzQ2NjI1OTE@._V1_.jpg",
+    "rating": "7.5",
+    "type": "Movie"
+  },
+  {
+    "id": 4,
+    "title": "Johnny Mnemonic",
+    "genres": ["Action", "Drama", "Sci-Fi"],
+    "date": "1995",
+    "coverURL": "https://m.media-amazon.com/images/M/MV5BNTdhYjEzYTEtYTkwZC00NzgxLWI0ZWEtYmEyMGZhOWYwMjE2XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg",
+    "rating": "5.6",
+    "type": "Movie"
+  },
+  {
+    "id": 5,
+    "title": "Kung Fury",
+    "genres": ["Short", "Action", "Comedy"],
+    "date": "2015",
+    "coverURL": "https://m.media-amazon.com/images/M/MV5BMjQwMjU2ODU5NF5BMl5BanBnXkFtZTgwNTU1NjM4NTE@._V1_.jpg",
+    "rating": "8.0",
+    "type": "Movie"
+  },
+  {
+    "id": 6,
+    "title": "The Lord of the Rings: The Return of the King",
+    "genres": ["Action", "Adventure", "Drama"],
+    "date": "2003",
+    "coverURL": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/44f7e18d9bc7942f3ebaf39869014b9f137b14e67fd2a8564f42ebaa84613ea7._RI_V_TTW_.jpg",
+    "rating": "8.9",
+    "type": "Movie"
+  },
+  {
+    "id": 7,
+    "title": "The Matrix",
+    "genres": ["Action", "Sci-Fi"],
+    "date": "1999",
+    "coverURL": "https://www.themoviedb.org/t/p/original/vybQQ7w7vGvF53IsGD0y0JSgIsA.jpg",
+    "rating": "8.7",
+    "type": "Movie"
+  },
+  {
+    "id": 8,
+    "title": "The Fifth Element",
+    "genres": ["Action", "Adventure", "Sci-Fi"],
+    "date": "1997",
+    "coverURL": "https://m.media-amazon.com/images/M/MV5BZWFjYmZmZGQtYzg4YS00ZGE5LTgwYzAtZmQwZjQ2NDliMGVmXkEyXkFqcGdeQXVyNTUyMzE4Mzg@._V1_.jpg",
+    "rating": "7.6",
+    "type": "Movie"
+  },
+  {
+    "id": 9,
+    "title": "Vampire Hunter D: Bloodlust",
+    "genres": ["Action", "Drama", "Animation"],
+    "date": "2000",
+    "coverURL": "https://m.media-amazon.com/images/M/MV5BNTIyNThlMjMtMzUyMi00YmEyLTljMmYtMWRhN2Q3ZTllZjA4XkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_FMjpg_UX1000_.jpg",
+    "rating": "7.6",
+    "type": "Movie"
+  },
+  {
+    "id": 10,
+    "title": "Star Trek Into Darkness",
+    "genres": ["Action", "Adventure", "Sci-Fi"],
+    "date": "2013",
+    "coverURL": "https://m.media-amazon.com/images/M/MV5BMTk2NzczOTgxNF5BMl5BanBnXkFtZTcwODQ5ODczOQ@@._V1_.jpg",
+    "rating": "7.7",
+    "type": "Movie"
+  },
+  {
+    "id": 11,
+    "title": "House of the Dragon",
+    "genres": ["Action", "Adventure", "Drama"],
+    "date": "2022",
+    "coverURL": "https://pbs.twimg.com/media/FV1Dc-PVUAIlaTe.jpg:large",
+    "rating": "8.8",
+    "type": "Show"
+  },
+  {
+    "id": 12,
+    "title": "The Lord of the Rings: The Rings of Power",
+    "genres": ["Action", "Adventure", "Drama"],
+    "date": "2022",
+    "coverURL": "https://m.media-amazon.com/images/M/MV5BMmVlODAyNTAtODc3Yi00MjFhLTk5MTktNWIwOTUzY2M2ZDc5XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",
+    "rating": "6.7",
+    "type": "Show"
+  },
+  {
+    "id": 13,
+    "title": "Chen qing ling",
+    "genres": ["Action", "Adventure", "Drama"],
+    "date": "2019",
+    "coverURL": "https://m.media-amazon.com/images/M/MV5BODRhYjM0YzgtMzE5Ni00NmVmLTliNWUtOGI0Nzc0Y2NkODQ5XkEyXkFqcGdeQXVyNzI1NzMxNzM@._V1_FMjpg_UX1000_.jpg",
+    "rating": "8.8",
+    "type": "Show"
+  },
+  {
+    "id": 14,
+    "title": "Love Between Fairy and Devil",
+    "genres": ["Comedy", "Romance", "Fantasy"],
+    "date": "2022",
+    "coverURL": "https://m.media-amazon.com/images/M/MV5BMGUwMzY3YmItNDAxYi00OWE2LTk3OWYtMTM0YmYyOTA2YWQxXkEyXkFqcGdeQXVyOTE4NzcwNzI@._V1_FMjpg_UX1000_.jpg",
+    "rating": "8.5",
+    "type": "Show"
+  },
+  {
+    "id": 15,
+    "title": "Lucifer",
+    "genres": ["Crime", "Drama", "Fantasy"],
+    "date": "2016",
+    "coverURL": "https://m.media-amazon.com/images/M/MV5BNDJjMzc4NGYtZmFmNS00YWY3LThjMzQtYzJlNGFkZGRiOWI1XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg",
+    "rating": "8.1",
+    "type": "Show"
+  },
+  {
+    "id": 16,
+    "title": "Wednesday",
+    "genres": ["Comedy", "Family", "Fantasy"],
+    "date": "2022",
+    "coverURL": "https://m.media-amazon.com/images/M/MV5BYWUzNjllNjUtZDNiZC00NTc5LTgxNWMtN2UwODk4NWZlMmQ3XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg",
+    "rating": "-",
+    "type": "Show"
+  },
+  {
+    "id": 17,
+    "title": "The Witcher",
+    "genres": ["Action", "Adventure", "Drama"],
+    "date": "2019",
+    "coverURL": "https://www.researchgate.net/profile/Tuelin-Sepetci/publication/348124942/figure/fig3/AS:1010774310932480@1617998783267/coverURLs-of-The-Witcher-Netflix-Series.png",
+    "rating": "8.2",
+    "type": "Show"
+  },
+  {
+    "id": 18,
+    "title": "Castlevania",
+    "genres": ["Action", "Adventure", "Animation"],
+    "date": "2017",
+    "coverURL": "https://m.media-amazon.com/images/M/MV5BMjAzMjU2MjYzMl5BMl5BanBnXkFtZTgwNTQ4Nzk1NjM@._V1_.jpg",
+    "rating": "8.3",
+    "type": "Show"
+  },
+  {
+    "id": 19,
+    "title": "Game of Thrones",
+    "genres": ["Action", "Adventure", "Drama"],
+    "date": "2011",
+    "coverURL": "https://m.media-amazon.com/images/M/MV5BYTRiNDQwYzAtMzVlZS00NTI5LWJjYjUtMzkwNTUzMWMxZTllXkEyXkFqcGdeQXVyNDIzMzcwNjc@._V1_.jpg",
+    "rating": "9.1",
+    "type": "Show"
+  },
+  {
+    "id": 20,
+    "title": "Friends",
+    "genres": ["Comedy", "Romance"],
+    "date": "1994",
+    "coverURL": "https://www.themoviedb.org/t/p/original/1uIMhXNXpQTVEdLSpKWjbsCzIEc.jpg",
+    "rating": "8.9",
+    "type": "Show"
+  }
+]

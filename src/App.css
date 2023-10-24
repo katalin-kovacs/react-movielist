@@ -1,0 +1,12 @@
+/* @import "../src/assets/reset.css";*/
+/*@import "../src/assets/variables.css"; */
+@import "antd/dist/antd.css";
+
+/* {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  background-color: var(--dark); 
+}*/
+
+.logo {
+  width: 50px;
+}
